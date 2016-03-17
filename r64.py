@@ -5,7 +5,7 @@ name = "Round of 64"
 winners = (
     # South
     None, #'Kansas', 'Austin Peay',
-    None, #'Colorado', 'Connecticut',
+    'Connecticut',
     None, #'Maryland', 'SDSU',
     None, #'California', 'Hawaii',
     None, #'Arizona', 'Wichita St',
