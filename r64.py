@@ -104,7 +104,7 @@ picks= {
      'Virginia','Butler','Little Rock','Iowa St','Seton Hall', 'Utah','Dayton','MTSU',
  ),
 
-'Herrison (Bob)':
+'Herrison':
 (
      'Kansas', 'Colorado', 'Maryland','California','Arizona', 'Miami','Iowa','Villanova',
      'Oregon','St Joseph','Baylor','Duke','Texas','Texas A&M','Oregon St','Oklahoma',
