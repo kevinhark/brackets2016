@@ -107,7 +107,7 @@ picks= {
 'Herrison (Bob)':
 (
      'Kansas', 'Colorado', 'Maryland','California','Arizona', 'Miami','Iowa','Villanova',
-     'Oregon','St Joesph','Baylor','Duke','Texas','Texas A&M','Oregon St','Oklahoma',
+     'Oregon','St Joseph','Baylor','Duke','Texas','Texas A&M','Oregon St','Oklahoma',
      'UNC', 'Providence','Indiana','Kentucky','Notre Dame','West Virginia', 'Wisconsin','Xavier',
      'Virginia','Butler','Purdue','Iowa St','Seton Hall', 'Utah','Dayton','Michigan St',
  ),
