@@ -37,7 +37,7 @@ winners = (
     None, #'Virginia', 'Hampton',
     'Butler',
     None, #'Purdue', 'Little Rock',
-    None, #'Iowa St', 'Iona',
+    'Iowa St',
     None, #'Seton Hall', 'Gonzaga',
     None, #'Utah', 'Fresno St',
     None, #'Dayton', 'Syracuse',
