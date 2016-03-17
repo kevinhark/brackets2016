@@ -17,7 +17,7 @@ winners = (
     None, #'Oregon', 'Holy Cross',
     None, #'St Joseph', 'Cincinnati',
     None, #'Baylor', 'Yale',
-    None, #'Duke', 'UNCW',
+    'Duke',
     None, #'Texas', 'UNI',
     None, #'Texas A&M', 'Green Bay',
     None, #'Oregon St', 'VCU',
@@ -35,7 +35,7 @@ winners = (
 
     # Midwest
     None, #'Virginia', 'Hampton',
-    None, #'Texas Tech', 'Butler',
+    'Butler',
     None, #'Purdue', 'Little Rock',
     None, #'Iowa St', 'Iona',
     None, #'Seton Hall', 'Gonzaga',
