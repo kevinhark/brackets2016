@@ -14,7 +14,7 @@ winners = (
     None, #'Villanova', 'UNC Ashville',
 
     # West
-    None, #'Oregon', 'Holy Cross/Southern',
+    None, #'Oregon', 'Holy Cross',
     None, #'St Joseph', 'Cincinnati',
     None, #'Baylor', 'Yale',
     None, #'Duke', 'UNCW',
@@ -28,7 +28,7 @@ winners = (
     None, #'USC', 'Providence',
     None, #'Indiana', 'Chattanooga',
     None, #'Kentucky', 'Stony Brook',
-    None, #'Notre Dame', 'Mich/Tulsa',
+    None, #'Notre Dame', 'Michigan',
     None, #'West Virginia', 'SF Austin',
     None, #'Wisconsin', 'Pittsburgh',
     None, #'Xavier', 'Weber St',
@@ -59,7 +59,7 @@ picks= {
 (
      'Kansas', 'Connecticut', 'SDSU','California','Arizona', 'Miami','Iowa','Villanova',
      'Oregon','Cincinnati','Baylor','Duke','Texas','Texas A&M','Oregon St','Oklahoma',
-     'UNC', 'USC','Indiana','Kentucky','Mich/Tulsa','West Virginia', 'Wisconsin','Xavier',
+     'UNC', 'USC','Indiana','Kentucky','Michigan','West Virginia', 'Wisconsin','Xavier',
      'Virginia','Butler','Purdue','Iowa St','Gonzaga', 'Utah','Syracuse','Michigan St',
 ),
 
@@ -78,5 +78,38 @@ picks= {
      'UNC', 'USC','Chattanooga','Kentucky','Notre Dame','West Virginia', 'Pittsburgh','Xavier',
      'Virginia','Butler','Purdue','Iowa St','Gonzaga', 'Utah','Syracuse','Michigan St',
 ),
+
+'Suzie':
+(
+     'Kansas', 'Connecticut', 'SDSU','California','Arizona', 'Miami','Temple','Villanova',
+     'Oregon','Cincinnati','Baylor','Duke','Texas','Texas A&M','VCU','Oklahoma',
+     'UNC', 'Providence','Indiana','Kentucky','Notre Dame','West Virginia', 'Wisconsin','Xavier',
+     'Virginia','Texas Tech','Purdue','Iowa St','Seton Hall', 'Utah','Dayton','Michigan St',
+ ),
+
+
+'Chris':
+(
+     'Kansas', 'Connecticut', 'SDSU','California','Arizona', 'Miami','Iowa','Villanova',
+     'Oregon','St Joseph','Baylor','Duke','Texas','Texas A&M','VCU','Oklahoma',
+     'UNC', 'USC','Chattanooga','Kentucky','Notre Dame','West Virginia', 'Pittsburgh','Xavier',
+     'Virginia','Butler','Purdue','Iona','Seton Hall', 'Utah','Dayton','Michigan St',
+ ),
+
+'Kevin':
+(
+     'Kansas', 'Connecticut', 'Maryland','Hawaii','Arizona', 'Miami','Temple','Villanova',
+     'Oregon','Cincinnati','Yale','Duke','Texas','Texas A&M','VCU','Oklahoma',
+     'UNC', 'Providence','Chattanooga','Kentucky','Michigan','West Virginia', 'Pittsburgh','Xavier',
+     'Virginia','Butler','Little Rock','Iowa St','Seton Hall', 'Utah','Dayton','MTSU',
+ ),
+
+'Herrison (Bob)':
+(
+     'Kansas', 'Colorado', 'Maryland','California','Arizona', 'Miami','Iowa','Villanova',
+     'Oregon','St Joesph','Baylor','Duke','Texas','Texas A&M','Oregon St','Oklahoma',
+     'UNC', 'Providence','Indiana','Kentucky','Notre Dame','West Virginia', 'Wisconsin','Xavier',
+     'Virginia','Butler','Purdue','Iowa St','Seton Hall', 'Utah','Dayton','Michigan St',
+ ),
 
 }

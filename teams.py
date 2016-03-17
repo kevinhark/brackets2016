@@ -11,7 +11,7 @@ seeds = {
 'Villanova': 2, 'UNC Ashville': 15, 
 
 # West
-'Oregon': 1, 'Holy Cross/Southern': 16, 
+'Oregon': 1, 'Holy Cross': 16,
 'St Joseph': 8, 'Cincinnati': 9, 
 'Baylor': 5, 'Yale': 12, 
 'Duke': 4, 'UNCW': 13, 
@@ -24,8 +24,8 @@ seeds = {
 'UNC': 1, 'FGCU': 16, 
 'USC': 8, 'Providence': 9, 
 'Indiana': 5, 'Chattanooga': 12, 
-'Kentucky': 4, 'Stony Brook': 13, 
-'Notre Dame': 6, 'Mich/Tulsa': 11, 
+'Kentucky': 4, 'Stony Brook': 13,
+'Notre Dame': 6, 'Michigan': 11, 
 'West Virginia': 3, 'SF Austin': 14, 
 'Wisconsin': 7, 'Pittsburgh': 10, 
 'Xavier': 2, 'Weber St': 15, 

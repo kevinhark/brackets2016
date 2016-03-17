@@ -40,20 +40,14 @@ def print_round(round,file):
     file.write('<table id="t01">\n')
     
     file.write('<tr>\n')
-    file.write('<th>\n')
-    file.write('Game winner')
-    file.write('</th>\n')
+    file.write('<th>Game winner</th>\n')
     for user in round.picks.keys():
-        file.write('<th>\n')
-        file.write('%s' % user)
-        file.write('</th>\n')
+        file.write('<th>%s</th>\n' % user)
     file.write('</tr>\n')
-    
+
     for n in range(len(round.winners)):
         file.write('<tr>\n')
-        file.write('<th>\n')
-        file.write('%s' % round.winners[n])
-        file.write('</th>\n')
+        file.write('<th>%s</th>\n' % round.winners[n])
         for user in round.picks.keys():
             file.write('<td>\n')
             if round.winners[n] == None:
@@ -62,15 +56,13 @@ def print_round(round,file):
                 file.write('<font color="green">')
             else:
                 file.write('<font color="red">')
-            file.write('%s' % round.picks[user][n])
-            file.write('</font>\n')
-            file.write('</td>\n')
+            file.write('%i %s' % (seeds[round.picks[user][n]],round.picks[user][n]))
+            file.write('</font></td>\n')
         file.write('</tr>\n')
     file.write('</table>\n')
-    file.write('</div>\n')
 
 def print_html_begin(file):
-    file.write('<html><body>\n')
+    file.write('<html><head><title>2016 NCAA Tourney Brackets</title></head><body>\n')
     file.write('''
         <style>
         table, th, td {
@@ -93,10 +85,9 @@ def print_html_begin(file):
         }
         </style>
         ''')
-#file.write('<div style="text-align: center;font-family: "Times New Roman", Times, serif;">\n')
 
 def print_html_end(file):
-    file.write('<p>Updated: ' + str(datetime.datetime.now()) + '</p>\n')
+    file.write('<p>Updated: ' + str(datetime.datetime.now()) + ' Central DST</p>\n')
     file.write('</div></html></body>\n')
 
 rounds = (r64,)
