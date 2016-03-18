@@ -9,7 +9,7 @@ winners = (
     None, #'Maryland', 'SDSU',
     None, #'California', 'Hawaii',
     None, #'Arizona', 'Wichita St',
-    None, #'Miami', 'Buffalo',
+    'Miami',
     None, #'Iowa', 'Temple',
     None, #'Villanova', 'UNC Ashville',
 
