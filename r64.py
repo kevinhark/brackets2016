@@ -41,7 +41,7 @@ winners = (
     'Gonzaga',
     'Utah',
     'Syracuse',
-    None, #'Michigan St', 'MTSU',
+    'MTSU',
 )
 
 
