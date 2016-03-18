@@ -38,7 +38,7 @@ winners = (
     'Butler',
     'Little Rock',
     'Iowa St',
-    None, #'Seton Hall', 'Gonzaga',
+    'Gonzaga',
     'Utah',
     None, #'Dayton', 'Syracuse',
     None, #'Michigan St', 'MTSU',
