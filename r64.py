@@ -8,7 +8,7 @@ winners = (
     'Connecticut',
     None, #'Maryland', 'SDSU',
     None, #'California', 'Hawaii',
-    None, #'Arizona', 'Wichita St',
+    'Wichita St',
     'Miami',
     None, #'Iowa', 'Temple',
     None, #'Villanova', 'UNC Ashville',
@@ -24,10 +24,10 @@ winners = (
     None, #'Oklahoma', 'CSU Bakersfield',
 
     # East
-    None, #'UNC', 'FGCU',
-    None, #'USC', 'Providence',
-    None, #'Indiana', 'Chattanooga',
-    None, #'Kentucky', 'Stony Brook',
+    'UNC',
+    'Providence',
+    'Indiana',
+    'Kentucky',
     None, #'Notre Dame', 'Michigan',
     None, #'West Virginia', 'SF Austin',
     None, #'Wisconsin', 'Pittsburgh',
@@ -39,7 +39,7 @@ winners = (
     'Little Rock',
     'Iowa St',
     None, #'Seton Hall', 'Gonzaga',
-    None, #'Utah', 'Fresno St',
+    'Utah',
     None, #'Dayton', 'Syracuse',
     None, #'Michigan St', 'MTSU',
 )
