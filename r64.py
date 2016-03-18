@@ -20,7 +20,7 @@ winners = (
     'Duke',
     None, #'Texas', 'UNI',
     None, #'Texas A&M', 'Green Bay',
-    None, #'Oregon St', 'VCU',
+    'VCU',
     None, #'Oklahoma', 'CSU Bakersfield',
 
     # East
