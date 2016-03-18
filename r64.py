@@ -4,7 +4,7 @@ name = "Round of 64"
 
 winners = (
     # South
-    None, #'Kansas', 'Austin Peay',
+    'Kansas',
     'Connecticut',
     None, #'Maryland', 'SDSU',
     None, #'California', 'Hawaii',
@@ -16,7 +16,7 @@ winners = (
     # West
     None, #'Oregon', 'Holy Cross',
     None, #'St Joseph', 'Cincinnati',
-    None, #'Baylor', 'Yale',
+    'Yale',
     'Duke',
     None, #'Texas', 'UNI',
     None, #'Texas A&M', 'Green Bay',
@@ -34,9 +34,9 @@ winners = (
     None, #'Xavier', 'Weber St',
 
     # Midwest
-    None, #'Virginia', 'Hampton',
+    'Virginia',
     'Butler',
-    None, #'Purdue', 'Little Rock',
+    'Little Rock',
     'Iowa St',
     None, #'Seton Hall', 'Gonzaga',
     None, #'Utah', 'Fresno St',
