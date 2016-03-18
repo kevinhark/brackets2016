@@ -7,7 +7,7 @@ winners = (
     'Kansas',
     'Connecticut',
     None, #'Maryland', 'SDSU',
-    None, #'California', 'Hawaii',
+    'Hawaii',
     'Wichita St',
     'Miami',
     None, #'Iowa', 'Temple',
