@@ -11,7 +11,7 @@ winners = (
     'Wichita St',
     'Miami',
     None, #'Iowa', 'Temple',
-    None, #'Villanova', 'UNC Ashville',
+    'Villanova',
 
     # West
     None, #'Oregon', 'Holy Cross',
@@ -40,7 +40,7 @@ winners = (
     'Iowa St',
     'Gonzaga',
     'Utah',
-    None, #'Dayton', 'Syracuse',
+    'Syracuse',
     None, #'Michigan St', 'MTSU',
 )
 
