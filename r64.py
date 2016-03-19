@@ -15,10 +15,10 @@ winners = (
 
     # West
     'Oregon',
-    None, #'St Joseph', 'Cincinnati',
+    'St Joseph',
     'Yale',
     'Duke',
-    None, #'Texas', 'UNI',
+    'UNI',
     'Texas A&M',
     'VCU',
     'Oklahoma',
@@ -28,7 +28,7 @@ winners = (
     'Providence',
     'Indiana',
     'Kentucky',
-    None, #'Notre Dame', 'Michigan',
+    'Notre Dame',
     'SF Austin',
     'Wisconsin',
     'Xavier',
