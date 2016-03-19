@@ -38,5 +38,7 @@ seeds = {
 'Seton Hall': 6, 'Gonzaga': 11, 
 'Utah': 3, 'Fresno St': 14, 
 'Dayton': 7, 'Syracuse': 10, 
-'Michigan St': 2, 'MTSU': 15, 
+'Michigan St': 2, 'MTSU': 15,
+
+'n/a': 0,
 }
