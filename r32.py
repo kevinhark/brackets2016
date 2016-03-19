@@ -6,7 +6,7 @@ winners = (
     # South
     None, #'Kansas', 'Connecticut',
     None, #'Maryland', 'Hawaii',
-    None, #'Wichita St', 'Miami',
+    'Miami',
     None, #'Iowa', 'Villanova',
 
     # West
@@ -17,9 +17,9 @@ winners = (
 
     # East
     None, #'UNC', 'Providence',
-    None, #'Indiana', 'Kentucky',
+    'Indiana',
     None, #'Notre Dame', 'SF Austin',
-    None, #'Wisconsin', 'Xavier',
+    'Xavier',
 
     # Midwest
     None, #'Virginia', 'Butler',
