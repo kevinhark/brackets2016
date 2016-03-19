@@ -6,22 +6,22 @@ winners = (
     # South
     'Kansas',
     'Connecticut',
-    None, #'Maryland', 'SDSU',
+    'Maryland',
     'Hawaii',
     'Wichita St',
     'Miami',
-    None, #'Iowa', 'Temple',
+    'Iowa',
     'Villanova',
 
     # West
-    None, #'Oregon', 'Holy Cross',
+    'Oregon',
     None, #'St Joseph', 'Cincinnati',
     'Yale',
     'Duke',
     None, #'Texas', 'UNI',
-    None, #'Texas A&M', 'Green Bay',
+    'Texas A&M',
     'VCU',
-    None, #'Oklahoma', 'CSU Bakersfield',
+    'Oklahoma',
 
     # East
     'UNC',
@@ -29,8 +29,8 @@ winners = (
     'Indiana',
     'Kentucky',
     None, #'Notre Dame', 'Michigan',
-    None, #'West Virginia', 'SF Austin',
-    None, #'Wisconsin', 'Pittsburgh',
+    'SF Austin',
+    'Wisconsin',
     None, #'Xavier', 'Weber St',
 
     # Midwest
