@@ -31,7 +31,7 @@ winners = (
     None, #'Notre Dame', 'Michigan',
     'SF Austin',
     'Wisconsin',
-    None, #'Xavier', 'Weber St',
+    'Xavier',
 
     # Midwest
     'Virginia',
