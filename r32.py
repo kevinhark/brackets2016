@@ -4,7 +4,7 @@ name = "Round of 32"
 
 winners = (
     # South
-    None, #'Kansas', 'Connecticut',
+    'Kansas',
     None, #'Maryland', 'Hawaii',
     'Miami',
     None, #'Iowa', 'Villanova',
@@ -24,7 +24,7 @@ winners = (
     # Midwest
     'Virginia',
     'Iowa St',
-    None, #'Gonzaga', 'Utah',
+    'Gonzaga',
     None, #'Syracuse', 'MTSU',
 )
 
