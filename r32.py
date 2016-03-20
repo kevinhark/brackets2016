@@ -7,7 +7,7 @@ winners = (
     'Kansas',
     None, #'Maryland', 'Hawaii',
     'Miami',
-    None, #'Iowa', 'Villanova',
+    'Villanova',
 
     # West
     None, #'Oregon', 'St Joseph',
@@ -16,9 +16,9 @@ winners = (
     None, #'VCU', 'Oklahoma',
 
     # East
-    None, #'UNC', 'Providence',
+    'UNC',
     'Indiana',
-    None, #'Notre Dame', 'SF Austin',
+    'Notre Dame',
     'Xavier',
 
     # Midwest
