@@ -31,6 +31,14 @@ def score(rounds,file):
             file.write('<td>\n')
             file.write('%i' % scores[m,p])
             file.write('</td>\n')
+    file.write('<tr>\n')
+    file.write('<th>\n')
+    file.write('Total')
+    file.write('</th>\n')
+    for p,user in enumerate(rounds[m].picks.keys()):
+        file.write('<td>\n')
+        file.write('<b>%i</b>' % np.sum(scores[:,p]))
+        file.write('</td>\n')
 
     file.write('</table>\n')
 

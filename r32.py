@@ -11,7 +11,7 @@ winners = (
 
     # West
     None, #'Oregon', 'St Joseph',
-    None, #'Yale','Duke',
+    'Duke',
     None, #'UNI','Texas A&M',
     None, #'VCU', 'Oklahoma',
 
@@ -22,8 +22,8 @@ winners = (
     'Xavier',
 
     # Midwest
-    None, #'Virginia', 'Butler',
-    None, #'Little Rock', 'Iowa St',
+    'Virginia',
+    'Iowa St',
     None, #'Gonzaga', 'Utah',
     None, #'Syracuse', 'MTSU',
 )
