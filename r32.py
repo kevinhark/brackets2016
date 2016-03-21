@@ -25,7 +25,7 @@ winners = (
     'Virginia',
     'Iowa St',
     'Gonzaga',
-    'MTSU',
+    'Syracuse',
 )
 
 
