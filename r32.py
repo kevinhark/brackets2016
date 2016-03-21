@@ -10,7 +10,7 @@ winners = (
     'Villanova',
 
     # West
-    None, #'Oregon', 'St Joseph',
+    'Oregon',
     'Duke',
     'Texas A&M',
     'Oklahoma',
