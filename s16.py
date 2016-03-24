@@ -1,23 +1,23 @@
 
-weight = 6
-name = "Round of 32"
+weight = 20
+name = "Sweet 16"
 
 winners = (
     # South
-    'Kansas','Maryland',
-    'Miami','Villanova',
+    None, #'Kansas','Maryland',
+    None, #'Miami','Villanova',
 
     # West
-    'Oregon','Duke',
-    'Texas A&M','Oklahoma',
+    None, #'Oregon','Duke',
+    None, #'Texas A&M','Oklahoma',
 
     # East
-    'UNC','Indiana',
-    'Notre Dame','Wisconsin',
+    None, #'UNC','Indiana',
+    None, #'Notre Dame','Wisconsin',
 
     # Midwest
-    'Virginia','Iowa St',
-    'Gonzaga','Syracuse',
+    None, #'Virginia','Iowa St',
+    None, #'Gonzaga','Syracuse',
 )
 
 
@@ -57,7 +57,10 @@ picks= {
 
 'Suzie':
 (
-
+    'Maryland','Villanova',
+    'Duke','Texas A&M',
+    'Indiana','Wisconsin',
+    'Iowa','Gonzaga',
 ),
 
 
@@ -79,7 +82,10 @@ picks= {
 
 'Herrison':
 (
-
+    'Kansas','Miami',
+    'Oregon','Texas A&M',
+    'Indiana','Notre Dame',
+    'Virginia','Gonzaga',
 ),
 
 }
