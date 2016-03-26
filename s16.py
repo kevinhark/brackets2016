@@ -4,19 +4,19 @@ name = "Sweet 16"
 
 winners = (
     # South
-    None, #'Kansas','Maryland',
-    None, #'Miami','Villanova',
+    'Kansas',
+    'Villanova',
 
     # West
-    None, #'Oregon','Duke',
-    None, #'Texas A&M','Oklahoma',
+    'Oregon',
+    'Oklahoma',
 
     # East
     None, #'UNC','Indiana',
-    None, #'Notre Dame','Wisconsin',
+    'Notre Dame',
 
     # Midwest
-    None, #'Virginia','Iowa St',
+    'Virginia',
     None, #'Gonzaga','Syracuse',
 )
 
