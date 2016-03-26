@@ -12,12 +12,12 @@ winners = (
     'Oklahoma',
 
     # East
-    None, #'UNC','Indiana',
+    'UNC',
     'Notre Dame',
 
     # Midwest
     'Virginia',
-    None, #'Gonzaga','Syracuse',
+    'Syracuse',
 )
 
 
