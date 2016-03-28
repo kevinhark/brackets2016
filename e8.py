@@ -4,16 +4,16 @@ name = "Elite 8"
 
 winners = (
     # South
-    None, #'Kansas','Villanova',
+    'Villanova',
 
     # West
-    None, #'Oregon','Oklahoma',
+    'Oklahoma',
 
     # East
-    None, #'UNC','Notre Dame',
+    'UNC',
 
     # Midwest
-    None, #'Virginia','Syracuse',
+    'Syracuse',
 )
 
 
