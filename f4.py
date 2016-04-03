@@ -3,8 +3,8 @@ weight = 80
 name = "Final 4"
 
 winners = (
-           None, #'Villanova','Oklahoma',
-           None, #'UNC','Syracuse',
+           'Villanova',
+           'UNC',
            )
 
 
