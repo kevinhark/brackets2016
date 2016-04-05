@@ -3,7 +3,7 @@ weight = 180
 name = "Championship Game"
 
 winners = (
-           None, #'Villanova','UNC',
+           'Villanova',
            )
 
 
